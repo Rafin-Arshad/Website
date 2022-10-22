@@ -1,2 +1,2 @@
 # Website
-this is an new wedsite for varsity work
+This is a new wedsite for varsity work
